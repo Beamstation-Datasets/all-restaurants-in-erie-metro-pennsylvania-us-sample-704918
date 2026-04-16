@@ -1,0 +1,12 @@
+{
+  "export_job_id": "ee386d70-c5dc-4876-942a-881836e32091",
+  "id_short": 704918,
+  "published_at": "2026-04-16T07:56:11Z",
+  "repo_name": "all-restaurants-in-erie-metro-pennsylvania-us-sample-704918",
+  "sample_asset_name": "beamstation_704918_restaurants-us-eriepa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/704918/beamstation_704918_restaurants-us-eriepa_SAMPLE_DIST.csv",
+  "sample_records": 52,
+  "sample_sha256": "57292042364bf36ba18a39268e23833e99e516408ccdacb2aa1a91afbd701806",
+  "sample_size_bytes": 183959,
+  "total_records": 529
+}
