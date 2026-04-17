@@ -9,9 +9,9 @@
 | Dataset ID | `704918` |
 | Location | Erie, PA |
 | Category | Restaurants |
-| Full dataset size | 529 records |
-| Free sample size | 52 records (9.83%) |
-| Last export | 2026-04-07T12:29:51.425325+00:00 |
+| Full dataset size | 527 records |
+| Free sample size | 52 records (9.87%) |
+| Last export | 2026-04-14T12:22:10.010628+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-erie-metro-pennsylvania-us-sample-704918/releases/download/sample-latest/beamstation_704918_restaurants-us-eriepa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
